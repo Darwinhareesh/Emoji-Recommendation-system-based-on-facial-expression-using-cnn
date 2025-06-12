@@ -1,4 +1,4 @@
-# Emotion Classification Using Convolutional Neural Networks
+# Emoji Recommendation based on facial expression using CNN
 
 ## Overview
 This project, conducted under the mentorship of SURE Trust from April 2023 to August 2023, focuses on developing a deep learning model to classify seven human emotions (Angry, Disgust, Fear, Happy, Sad, Surprise, Neutral) from facial images. The goal was to achieve a validation accuracy of 70-80%, which was met with a final custom Convolutional Neural Network (CNN) achieving **78.46% validation accuracy**. This work demonstrates practical skills in AI and computer vision, aligning with SURE Trust's mission to enhance employability for rural youth.
