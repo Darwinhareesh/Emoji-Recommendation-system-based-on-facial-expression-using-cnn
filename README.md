@@ -100,6 +100,5 @@ pip install tensorflow numpy matplotlib seaborn scikit-learn
 ## Acknowledgments
 - SURE Trust for providing this opportunity to gain industry-relevant skills.
 - Mentors Gaurav Patil, and Prof. Radhakumari for guidance.
-- [Optional: Add dataset source or other acknowledgments]
 
 
