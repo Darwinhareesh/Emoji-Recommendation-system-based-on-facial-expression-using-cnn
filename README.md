@@ -1,13 +1,13 @@
 # Emoji Recommendation based on facial expression using CNN
 
 ## Overview
-This project, conducted under the mentorship of SURE Trust from April 2023 to August 2023, focuses on developing a deep learning model to classify seven human emotions (Angry, Disgust, Fear, Happy, Sad, Surprise, Neutral) from facial images. The goal was to achieve a validation accuracy of 70-80%, which was met with a final custom Convolutional Neural Network (CNN) achieving **78.46% validation accuracy**. This work demonstrates practical skills in AI and computer vision, aligning with SURE Trust's mission to enhance employability for rural youth.
+This project, conducted under the mentorship of SURE Trust from December 2024 to April 2025, focuses on developing a deep learning model to classify seven human emotions (Angry, Disgust, Fear, Happy, Sad, Surprise, Neutral) from facial images. The goal was to achieve a better model, which was met with a final custom Convolutional Neural Network (CNN) achieving **78.46% validation accuracy**. This work demonstrates practical skills in AI and computer vision, aligning with SURE Trust's mission to enhance employability for rural youth.
 
 ## Project Details
 - **Domain**: Artificial Intelligence and Computer Vision
-- **Duration**: April 2023 to August 2023
-- **Contributor**: [Your Name]
-- **Mentors**: [Mentor 1 Name], [Mentor 2 Name], and Prof. Radhakumari (Executive Director & Founder, SURE Trust)
+- **Duration**: December 2024 to April 2025
+- **Contributor**: R. Darwin Hreesh
+- **Mentors**: Gaurav Patel and Prof. Radhakumari (Executive Director & Founder, SURE Trust)
 - **Dataset**: Approximately 33,404 augmented samples (e.g., sourced from RAF-DB or custom dataset)
 - **Target Accuracy**: 70-80%
 - **Achieved Accuracy**: 78.46% (validation)
