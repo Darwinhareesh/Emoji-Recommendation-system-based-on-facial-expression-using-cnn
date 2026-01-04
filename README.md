@@ -87,9 +87,9 @@ pip install tensorflow numpy matplotlib seaborn scikit-learn
 - **Accuracy and Loss Plot**:  
   ![Accuracy and Loss](Mobilenet%20Accuracy.png)  
 - **Confusion Matrix**:  
-  ![Confusion Matrix](results/confusion_matrix.png)  
+  ![Confusion Matrix](Confusion%20Matrix.png)  
 - **Augmented Images**:  
-  ![Augmented Images](results/augmented_images.png)
+  ![Augmented Images](Augmented%20Images.png)
 
 ## Future Improvements
 - Implement a separate test set for unbiased evaluation.
