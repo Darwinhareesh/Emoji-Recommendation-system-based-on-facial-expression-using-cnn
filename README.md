@@ -85,7 +85,7 @@ pip install tensorflow numpy matplotlib seaborn scikit-learn
 
 ### Screenshots
 - **Accuracy and Loss Plot**:  
-  ![Accuracy and Loss](results/accuracy_loss_plot.png)  
+  ![Accuracy and Loss]((https://github.com/Darwinhareesh/Emoji-Recommendation-system-based-on-facial-expression-using-cnn/blob/main/Mobilenet%20Accuracy.png))  
 - **Confusion Matrix**:  
   ![Confusion Matrix](results/confusion_matrix.png)  
 - **Augmented Images**:  
